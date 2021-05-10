@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserableCollectoinConsole", "ObserableCollectoinConsole\ObserableCollectoinConsole.csproj", "{01C0F4E0-DC07-4091-B1F7-A956AAE246AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C0F4E0-DC07-4091-B1F7-A956AAE246AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C0F4E0-DC07-4091-B1F7-A956AAE246AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C0F4E0-DC07-4091-B1F7-A956AAE246AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C0F4E0-DC07-4091-B1F7-A956AAE246AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F750CACC-47B0-49DE-8D2F-82FD7D8ABFC2}
+	EndGlobalSection
+EndGlobal
